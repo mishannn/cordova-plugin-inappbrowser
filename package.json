@@ -1,6 +1,6 @@
 {
   "name": "cordova-plugin-inappbrowser",
-  "version": "3.1.1-dev",
+  "version": "3.1.1",
   "description": "Cordova InAppBrowser Plugin",
   "types": "./types/index.d.ts",
   "cordova": {
@@ -15,10 +15,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/apache/cordova-plugin-inappbrowser"
+    "url": "https://github.com/mishannn/cordova-plugin-inappbrowser"
   },
   "bugs": {
-    "url": "https://github.com/apache/cordova-plugin-inappbrowser/issues"
+    "url": "https://github.com/mishannn/cordova-plugin-inappbrowser/issues"
   },
   "keywords": [
     "cordova",
@@ -47,7 +47,7 @@
       }
     }
   },
-  "author": "Apache Software Foundation",
+  "author": "mishannn",
   "license": "Apache-2.0",
   "devDependencies": {
     "eslint": "^4.0.0",
